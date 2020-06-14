@@ -13,12 +13,12 @@
     /* transform: translate(0,10%); */
     box-shadow: 25px 25px 20px 0px rgba(37, 9, 9, 0.3);
 }
-.b1{
+/* .b1{
     background-image: url("/1.jpg");
     background-color: rgba(211, 233, 181, 0.658);
     background-repeat: no-repeat;
     
-}
+} */
 .b2{
   background-color: rgb(236, 240, 248);
 }
